@@ -10,7 +10,7 @@ This repository contains my solutions to LeetCode problems written in C++. It is
 ## Solved Problems
 
 1. Concatenation of Array
-
+2. Shuffle the array
 ## Goal
 
 To practice coding consistently and improve algorithmic thinking.
