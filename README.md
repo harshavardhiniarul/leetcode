@@ -1,7 +1,7 @@
 # leetcode
 # LeetCode Solutions
 
-This repository contains my solutions to LeetCode problems written in C++. It is a part of my journey to improve problem-solving skills and strengthen my understanding of Data Structures and Algorithms.
+This repository contains my solutions to LeetCode problems written in C++ , C , Python, Javascript. It is a part of my journey to improve problem-solving skills and strengthen my understanding of Data Structures and Algorithms.
 
 ## Language
 
