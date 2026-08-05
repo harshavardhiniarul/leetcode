@@ -5,14 +5,15 @@ This repository contains my solutions to LeetCode problems written in C++. It is
 
 ## Language
 
-1. C++,C,Python
+1. C++, C, Python, Java script
 
 ## Solved Problems
 
 1. Concatenation of Array
 2. Shuffle the array
 3. Max Consecutive ones
-4. two sum 
+4. two sum
+5. Array Prototype
 ## Goal
 
 To practice coding consistently and improve algorithmic thinking.
